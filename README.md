@@ -2,7 +2,5 @@
 
 
 COMPLETE SET OF HELPFUL JDBC RESOURCES.
-
-
-![](https://avaldes.com/wp-content/uploads/2014/11/Java.png)
+![](http://yourwebsitefirst.com/wp-content/uploads/2017/03/JDBC-Connection-Pooling.jpg)
 
